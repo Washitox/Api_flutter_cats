@@ -1,1 +1,1 @@
-
+En este repositorio se encuentra el trabajo de dos widgets, uno de pokemons, que refleja algunos pokemones sin recargar las opciones, y el otro presenta imagenes de gatitos que al presionar recargar, dará dos imagenes rendom de más gatitos.
